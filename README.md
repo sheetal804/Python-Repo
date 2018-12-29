@@ -1,5 +1,6 @@
 # Python-Repo
 Hackerrank Python Practise Code
+
 Subdomain:
 - Introduction
 - Basic Data Types
@@ -16,5 +17,7 @@ Subdomain:
 - Regex and Parsing
 - XML
 - Numpy
+
 These are personal python practise code.
+
 Hola! enjoy coding :)
