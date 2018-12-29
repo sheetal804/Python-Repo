@@ -18,6 +18,6 @@ Subdomain:
 - XML
 - Numpy
 
-These are personal python practise code.
+These are my personal python practise code.
 
 Hola! enjoy coding :)
